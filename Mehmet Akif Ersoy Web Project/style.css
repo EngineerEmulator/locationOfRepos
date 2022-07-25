@@ -1,0 +1,136 @@
+.classs {
+    align-items: center;
+    margin: auto;
+    padding-inline-start: 8%;
+
+}
+
+.figure {}
+
+.figure-img {
+    height: 400px;
+}
+
+.col-4 {
+    display: flex;
+}
+
+.figure-caption {
+    text-align: center;
+    color: maroon;
+    font-weight: 500;
+    color: rgb(231, 168, 168);
+    font-style: italic;
+    font-size: medium;
+}
+
+nav {
+    background-color: rgb(85, 0, 0);
+}
+
+.navbar {
+    font-style: italic;
+}
+
+footer {
+    color: rgb(226, 122, 122);
+    background-color: rgb(85, 0, 0);
+    font-weight: 600;
+    font-style: oblique;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.myclass {
+    /*background-image:url("background.jpg");*/
+    background-color: maroon;
+}
+
+
+
+.card-text {
+    text-align: center;
+    margin: 5%;
+    color: maroon;
+    font-weight: 500;
+    color: rgb(231, 168, 168);
+    font-style: italic;
+}
+
+#Photos {
+    width: 750px;
+    margin:auto;
+align-content: center;
+}
+
+.carousel {
+    margin-top: 2em;
+
+}
+
+.carousel-caption {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 650;
+    color: rgb(231, 168, 168);
+    text-align: center;
+    position: sticky;
+    top: 5vh;
+}
+
+
+body {
+    background-color: maroon;
+
+}
+
+hr {
+    color: aliceblue;
+}
+
+h5 {
+    font-weight: bold;
+    color: rgb(252, 164, 164);
+
+}
+
+h3 {
+    padding: auto;
+    text-align: center;
+    color: rgb(252, 164, 164);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.lead {
+    font-style: italic;
+}
+
+#Siirler {
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#Anthem1 {
+    padding-left: 7%;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#Anthem2 {
+    padding-left: 4%;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#imageofanthem {
+    padding-top: 3%;
+    padding-left: 3.5%;
+}
+
+.classtwo {
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#marş {
+    height: 600px;
+}
